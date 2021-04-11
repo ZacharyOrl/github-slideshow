@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+_BLONDY! YOU'RE A SON OF A_
 Use the left arrow to go back!
 
